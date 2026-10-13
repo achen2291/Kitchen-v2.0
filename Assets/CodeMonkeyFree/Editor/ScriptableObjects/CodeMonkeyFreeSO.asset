@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1791781922
+  lastShownTimestamp: 1791869502
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1791781922
+  checkedLastUpdateTimestamp: 1791869502
   lastQOTDResponse:
     questionId: 351
     questionText: What does Normalizing a Vector do?
@@ -27,26 +27,26 @@ MonoBehaviour:
     answerC: Flatten the z
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1791781922
+  lastQotdTimestamp: 1791869502
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleSep26Synty.png
     topText: AWESOME Synty Asset with THOUSANDS of great assets!
     topLink: humblebundle
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1791781922
+  lastDynamicHeaderTimestamp: 1791869502
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1791781922
+  websiteLatestMessageTimestamp: 1791869502
   websiteLatestVideos:
     videos:
+    - youTubeId: OzldphY8pTs
+      title: THIS is why your game looks TERRIBLE!
     - youTubeId: o4WEUv31JOc
       title: If your code is HORRIBLE watch this!
     - youTubeId: trDO2Io6D2M
       title: What is Unity Spark?
     - youTubeId: iwDBrvKliV8
       title: You should do the Dual Prototyping Strategy!
-    - youTubeId: mQTcWsiP9nA
-      title: Does 1000 Wishlists at announcement mean $1,000,000?
-  websiteLatestVideosTimestamp: 1791781922
+  websiteLatestVideosTimestamp: 1791869502
