@@ -14,31 +14,39 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1791869502
+  lastShownTimestamp: 1791956413
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1791869502
+  checkedLastUpdateTimestamp: 1791956413
   lastQOTDResponse:
-    questionId: 351
-    questionText: What does Normalizing a Vector do?
-    answerA: Modifies its x,y,z to get a magnitude of 1
-    answerB: Invert its x,y,z
-    answerC: Flatten the z
+    questionId: 352
+    questionText: 'What is the position of the transform after running this code?
+
+      <p>Vector3
+      targetPosition = new Vector3(10, 0, 0);</p>
+
+      <p>transform.position =
+      targetPosition;</p>
+
+      <p>targetPosition.x = 20;</p>'
+    answerA: (10, 0, 0)
+    answerB: (20, 0, 0)
+    answerC: Unknown
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1791869502
+  lastQotdTimestamp: 1791956413
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleSep26Synty.png
     topText: AWESOME Synty Asset with THOUSANDS of great assets!
     topLink: humblebundle
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1791869502
+  lastDynamicHeaderTimestamp: 1791956413
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1791869502
+  websiteLatestMessageTimestamp: 1791956413
   websiteLatestVideos:
     videos:
     - youTubeId: OzldphY8pTs
@@ -49,4 +57,4 @@ MonoBehaviour:
       title: What is Unity Spark?
     - youTubeId: iwDBrvKliV8
       title: You should do the Dual Prototyping Strategy!
-  websiteLatestVideosTimestamp: 1791869502
+  websiteLatestVideosTimestamp: 1791956413

@@ -836,6 +836,9 @@ MonoBehaviour:
   moveSpeed: 7
   gameInput: {fileID: 1705900722}
   interactDistance: 2
+  countersLayerMask:
+    serializedVersion: 2
+    m_Bits: 64
 --- !u!4 &1274362758
 Transform:
   m_ObjectHideFlags: 0
@@ -1003,6 +1006,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ClearCounter
+      objectReference: {fileID: 0}
+    - target: {fileID: 2776507019011989103, guid: 3f1d77f71d94fe04b86ea72ae688f9b7,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5776962390522499174, guid: 3f1d77f71d94fe04b86ea72ae688f9b7,
         type: 3}
